@@ -8,7 +8,7 @@ class XylophoneApp extends StatelessWidget {
       child: FlatButton(
         color: color,
         onPressed: () {},
-        child: Text('click me'),
+        child: Text('click here'),
       ),
     );
   }
